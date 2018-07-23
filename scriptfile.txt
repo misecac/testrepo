@@ -2,6 +2,6 @@ import os,json
 
 def main():
 	a = 10
-	b = 20
+	b = 10
 	c = a + b
 	return c
