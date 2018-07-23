@@ -1,0 +1,7 @@
+import os,json
+
+def main():
+	a = 10
+	b = 20
+	c = a + b
+	return c
