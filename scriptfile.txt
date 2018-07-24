@@ -1,8 +1,13 @@
 import os,json
+
+def add(num1, num2):
+	return num1+num2
+
 def main():
+	# variable initialization
 	a = 20
 	b = 35
-	c = a + b 
+	c = add()
 	return c
 	
 if __name__ == '__main__':
