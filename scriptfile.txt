@@ -1,8 +1,8 @@
 import os,json
 def main():
-	a = 10
+	a = 20
 	b = 10
-	c = a + b
+	c = a + b 
 	return c
 	
 if __name__ == '__main__':
